@@ -3,7 +3,6 @@ The code of a data analysis project
 
 Based on db: 
 https://www.kaggle.com/miroslavsabo/paintings
-   https://www.kaggle.com/anako2020/paintings-data-exploration
  
  
  39 Art Works by famous painters 
@@ -11,3 +10,4 @@ https://www.kaggle.com/miroslavsabo/paintings
   
  
  # The Data Analysis aims to analyze the votes data and try to guess user's preferences for next art piece to see.
+  also here https://www.kaggle.com/anako2020/paintings-data-exploration
