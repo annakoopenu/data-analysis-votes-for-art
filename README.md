@@ -1,5 +1,4 @@
 # data-analysis-votes-for-art
-# now with Olga and Masya
 The code of a data analysis project 
 
 Based on db: https://www.kaggle.com/miroslavsabo/paintings
