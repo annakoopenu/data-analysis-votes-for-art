@@ -12,5 +12,9 @@ warnings.filterwarnings('ignore')
 # paintings.csv
 
 # Create dataframe
-people_file_location = '../data-votes-for-art.csv'
-df_orig = pd.read_csv(people_file_location)
+def load_dataframe():
+    people_file_location = 'C:\data_csv\data-votes-for-art.csv'
+    return pd.read_csv(people_file_location)
+
+df_orig = load_dataframe()
+print(df_orig.head(3))
